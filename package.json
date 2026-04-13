@@ -1,0 +1,16 @@
+{
+    "name": "minecraft-vs-roblox-site",
+    "version": "1.0.0",
+    "description": "A website comparing Minecraft and Roblox",
+    "main": "index.html",
+    "scripts": {
+        "start": "open index.html"
+    },
+    "keywords": [
+        "minecraft",
+        "roblox",
+        "comparison"
+    ],
+    "author": "",
+    "license": "ISC"
+}
